@@ -1,0 +1,80 @@
+Ambiente:
+2 consultórios
+1 sala de cirurgia
+1 leito de recuperação
+Área administrativa/recepção
+1. Objetivo do Projeto
+Implementar controles de segurança da informação e proteção da infraestrutura de TI, garantindo:
+Proteção dos dados sensíveis dos pacientes
+Continuidade das operações da clínica
+Redução de riscos de ataques cibernéticos
+Conformidade com LGPD (Lei Geral de Proteção de Dados)
+2. Levantamento do Ambiente (Assessment)
+Será realizada análise inicial para identificar:
+Equipamentos de rede existentes
+Computadores e sistemas utilizados
+Sistema de prontuário eletrônico
+Rede Wi-Fi e acesso à internet
+Armazenamento de dados e backups
+Controle de acesso de usuários
+Entregável:
+Relatório de diagnóstico de segurança.
+3. Segurança de Rede
+Implementação de controles para proteger a infraestrutura da clínica.
+Itens incluídos
+Implementação de Firewall corporativo
+Segmentação de rede:
+Rede administrativa
+Rede clínica/equipamentos
+Rede Wi-Fi para visitantes
+Configuração segura do Wi-Fi
+Controle de acesso à rede
+Monitoramento de tráfego
+4. Proteção de Endpoints
+Proteção dos computadores e dispositivos utilizados na clínica.
+Inclui
+Antivírus corporativo
+Controle de atualização de sistemas
+Políticas de segurança
+Restrição de instalação de softwares
+Hardening de sistemas operacionais
+5. Proteção de Dados e LGPD
+Garantir proteção das informações sensíveis de pacientes.
+Controles
+Criptografia de dados
+Controle de acesso por usuário
+Registro de acessos
+Política de privacidade
+Controle de compartilhamento de dados
+6. Backup e Recuperação
+Implementação de solução para garantir recuperação de dados.
+Estratégia
+Backup automático diário
+Backup local + backup em nuvem
+Teste de restauração de dados
+Política de retenção de backups
+7. Controle de Acesso
+Definição de políticas de acesso aos sistemas.
+Criação de usuários individuais
+Privilégios por função
+Senhas fortes
+Possível implementação de MFA (dupla autenticação)
+8. Monitoramento e Resposta a Incidentes
+Implementação de mecanismos de detecção de incidentes.
+Monitoramento de logs
+Alertas de segurança
+Procedimento de resposta a incidentes
+Plano básico de continuidade
+9. Treinamento de Usuários
+Treinamento para equipe da clínica sobre:
+Boas práticas de segurança
+Phishing
+Uso seguro de sistemas
+Proteção de dados de pacientes
+10. Documentação e Entregáveis
+Ao final do projeto serão entregues:
+Relatório de diagnóstico de segurança
+Arquitetura da rede segura
+Políticas de segurança
+Procedimento de backup
+Plano de resposta a incidentes
