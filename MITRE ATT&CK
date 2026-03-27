@@ -1,0 +1,54 @@
+Mapeamento de Ameaças (MITRE ATT&CK)
+
+As principais táticas consideradas são:
+- Initial Access: phishing e acessos indevidos
+- Execution: execução de malware
+- Persistence: manutenção de acesso por atacantes
+- Privilege Escalation: elevação de privilégios
+- Defense Evasion: evasão de antivírus
+- Credential Access: roubo de credenciais
+- Lateral Movement: movimentação na rede
+- Exfiltration: vazamento de dados
+- Impact: indisponibilidade (ex: ransomware)
+
+Segurança de Rede (Mitigação MITRE)
+
+Firewall corporativo para bloquear acessos não autorizados (mitiga Initial Access).
+Segmentação de rede para impedir movimentação lateral (mitiga Lateral Movement).
+Wi-Fi seguro com autenticação forte (mitiga Credential Access).
+
+Proteção de Endpoints
+
+Uso de antivírus corporativo para detectar malware (mitiga Execution).
+Atualizações automáticas para reduzir vulnerabilidades.
+Hardening para reduzir superfície de ataque.
+
+Proteção de Dados (LGPD)
+
+Criptografia de dados para evitar exfiltração.
+Controle de acesso baseado em usuários.
+Logs de auditoria para rastreabilidade.
+
+Backup e Recuperação
+
+Backup diário para mitigar impacto de ransomware (Impact).
+Armazenamento em nuvem e local.
+Testes de restauração periódicos.
+
+Controle de Acesso
+
+Uso de MFA para evitar roubo de credenciais (Credential Access).
+Privilégio mínimo para reduzir danos.
+Usuários individuais e senhas fortes.
+
+Monitoramento e Resposta
+
+Monitoramento de eventos para detectar atividades suspeitas.
+Alertas automáticos de segurança.
+Plano de resposta a incidentes alinhado ao MITRE.
+
+Treinamento
+
+Treinamento contra phishing (Initial Access).
+Boas práticas de segurança.
+Conscientização sobre proteção de dados.
